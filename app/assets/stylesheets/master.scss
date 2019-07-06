@@ -1,1 +1,24 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Rubik+Mono+One&display=swap');
+
+
+body {
+    background: image_url('crossline-dots');
+    font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+
+}
+
+.navbar  {
+    background: image_url('prism.png');
+    box-shadow: 0px 1px 3px #2a2a2a;
+    font-weight: 200;
+    font-family: "Helvetica Neue", Helvetica;
+}
+
+.navbar-dark .navbar-brand {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-weight: 100;
+  color: white;
+  
+
+}
