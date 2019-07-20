@@ -31,6 +31,14 @@ gem 'simple_form'
 
 gem 'devise'
 
+gem 'carrierwave', '~> 1.0'
+
+gem "figaro"
+
+gem "fog-aws"
+
+gem "mini_magick"
+
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
